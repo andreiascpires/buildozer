@@ -8,6 +8,7 @@ def no_config(f):
     return f
 
 
+
 class Target:
     def __init__(self, buildozer):
         self.buildozer = buildozer
